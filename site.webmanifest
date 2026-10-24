@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "TONPlayer",
+  "short_name": "TONPlayer",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
